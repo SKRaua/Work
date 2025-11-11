@@ -29,8 +29,7 @@ Maven中的坐标是资源(jar)的唯一标识,通过该坐标可以唯一定位
      </exclusions>
 ```
 
-
-# 1. 我们对"Spring"的理解
+# Spring
 
 术语 "Spring"
 在不同的语境中意味着不同的东西。它可以用来指代Spring框架项目本身，它是一切的开始。随着时间的推移，其他Spring项目也被建立在Spring框架之上。大多数时候，当人们说
@@ -46,3 +45,7 @@ Spring 框架被划分为多个模块。应用程序可以选择他们需要的�
 名称的稳定的语言级模块名称（"spring.core"、"spring.context"
 等）（jar遵循相同的命名模式，以"-"代替"."，例如 "spring-core" 和
 "spring-context"）。当然，Spring框架的jar在JDK 8和9+的classpath上都保持正常工作。
+
+# HTTP
+
+Hyper Text Transfer Protocol，超文本传输协议，规定了浏览器和服务器之间数据传输的规则。
